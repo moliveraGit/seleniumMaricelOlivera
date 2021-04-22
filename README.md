@@ -1,2 +1,2 @@
 # seleniumMaricelOlivera
-Curso Selenium Básico
+Curso Sábados_Selenium Básico
