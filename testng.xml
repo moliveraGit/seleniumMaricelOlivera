@@ -1,0 +1,11 @@
+<suite name = "Prueba Selenium">
+
+
+    <test name = "Prueba Testng">
+        <classes>
+            <class name = "PruebaSeleniumJunio.InterviewQuestionSiteTest"></class>>
+            <class name = "PruebaSeleniumJunio.PruebaNetflixTest"></class>>
+
+        </classes>
+    </test>
+</suite>
